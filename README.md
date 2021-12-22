@@ -1,2 +1,2 @@
 # knative-playground
-This is 
+This is a simple knative eventing example
